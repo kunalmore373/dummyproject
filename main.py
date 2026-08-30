@@ -1,1 +1,1 @@
-print("Hey there! Welcome to the program.")
+print("Hey there! Welcome to the program. This program will help you perform some basic calculations. Please follow the prompts to enter your data.")
